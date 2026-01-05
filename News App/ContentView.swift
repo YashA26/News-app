@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  News App
 //
-//  Created by Vedant Patil on 28/08/24.
+//  Created by Yash Hire on 28/11/25.
 //
 
 import SwiftUI
